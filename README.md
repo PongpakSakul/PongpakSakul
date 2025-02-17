@@ -14,7 +14,7 @@
 
 ## 📫 Contact Me
 - Email: pongpak.sakul@gmail.com
-- - LinkedIn: [Pongpak Sakulsathaporn](linkedin.com/in/pongpak-sakulsathaporn-8b6a4b343) 
+- LinkedIn: [Pongpak Sakulsathaporn](linkedin.com/in/pongpak-sakulsathaporn-8b6a4b343) 
 
 <!---
 PongpakSakul/PongpakSakul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
